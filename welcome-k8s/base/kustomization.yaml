@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
 - welcome-deployment.yaml
 - welcome-service.yaml
+- welcome-route.yaml
